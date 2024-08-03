@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f48f1417-2b56-42c3-96db-f5b2a0052f61}">
+		<property name="assetPath">
+			<value>Voice/BossVA/CeilingTrapVA/CeilingTrap-6-A.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>4.0155000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0007398a-8526-4222-84a0-9fc057cc09e5}</destination>
+		</relationship>
+	</object>
+</objects>

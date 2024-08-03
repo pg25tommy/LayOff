@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{0b30e786-ae80-4fa3-80ff-9b2d2f21406f}">
+		<property name="assetPath">
+			<value>SFX/Traps/Ceiling/SFX_Trap_Ceiling_Acti_Placeholder4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.9103854875283446</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0007398a-8526-4222-84a0-9fc057cc09e5}</destination>
+		</relationship>
+	</object>
+</objects>

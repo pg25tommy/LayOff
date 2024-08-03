@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DrywallTexture
+  m_Shader: {fileID: -6465566751694194690, guid: f4638931901d6364bb803d166fab2d27,
+    type: 3}
+  m_Parent: {fileID: 2100000, guid: 3fda069f1e1865a43bd10585876135ca, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _DEPTHOFFSET_ON
+  - _DISABLE_SSR_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+    RenderType: TransparentCutout
+  disabledShaderPasses:
+  - TransparentDepthPrepass
+  - TransparentDepthPostpass
+  - TransparentBackface
+  - RayTracingPrepass
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlendBaseColor:
+        m_Texture: {fileID: 2800000, guid: e5672e43d65a050498aa325f01558a22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendMask:
+        m_Texture: {fileID: 2800000, guid: b8f1ba8e502f7364ab7b657b83683979, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendNormal:
+        m_Texture: {fileID: 2800000, guid: e91388a12a485dc478ece6875ca6e00b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e5672e43d65a050498aa325f01558a22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: d00de0f467d0b3848a3b34eac871a901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: e91388a12a485dc478ece6875ca6e00b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Blend_Strength: 13.1
+    - _Height: 1.18
+    - _Tiling: 2
+    m_Colors:
+    - _Base_Tint: {r: 0.9056604, g: 0.9013884, b: 0.9013884, a: 1}
+    - _Blend_Bottom_Tint: {r: 0.9811321, g: 0.97970295, b: 0.96724814, a: 1}
+    - _Blend_Top_Tint: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &8342235880208008715
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 13
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 

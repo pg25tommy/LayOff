@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{547badd6-a1e2-458b-85fa-3d2ff323b3aa}">
+		<property name="name">
+			<value>Boss</value>
+		</property>
+		<property name="maxInstances">
+			<value>1</value>
+		</property>
+		<property name="instanceStealing">
+			<value>3</value>
+		</property>
+		<relationship name="automators">
+			<destination>{cae37303-6609-430a-8121-e867d531a1bd}</destination>
+		</relationship>
+		<relationship name="effectChain">
+			<destination>{35ac81ce-b37f-4487-96b1-c757fa684610}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{ef733520-5873-4dbb-85ee-de976ae70e4a}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{cfe40f71-15c2-4acd-9c32-56c734a18af6}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{cae37303-6609-430a-8121-e867d531a1bd}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>volume</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{2407250e-ba76-4db1-8648-91f2a028d881}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{35ac81ce-b37f-4487-96b1-c757fa684610}">
+		<relationship name="effects">
+			<destination>{f44a6ac4-e045-469e-8634-a2b68b0f1233}</destination>
+			<destination>{3b3fc9e5-c880-4d45-af50-1edd91fe3e0b}</destination>
+			<destination>{5815402f-a925-46f9-bc25-557f6b7ef444}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{ef733520-5873-4dbb-85ee-de976ae70e4a}" />
+	<object class="AutomationCurve" id="{2407250e-ba76-4db1-8648-91f2a028d881}">
+		<relationship name="parameter">
+			<destination>{40f685f7-55ae-4d4c-9b67-344ba39d1d63}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{cd76d0a0-a9b4-4c36-8fcf-9c0393846f9e}</destination>
+			<destination>{0bf4efe6-20a3-4262-af29-182a23b31547}</destination>
+		</relationship>
+	</object>
+	<object class="CompressorEffect" id="{f44a6ac4-e045-469e-8634-a2b68b0f1233}">
+		<property name="threshold">
+			<value>-33</value>
+		</property>
+		<property name="gain">
+			<value>11</value>
+		</property>
+	</object>
+	<object class="TransceiverEffect" id="{3b3fc9e5-c880-4d45-af50-1edd91fe3e0b}">
+		<property name="transmitMode">
+			<value>true</value>
+		</property>
+		<property name="level">
+			<value>-12</value>
+		</property>
+		<property name="channel">
+			<value>1</value>
+		</property>
+	</object>
+	<object class="MixerBusFader" id="{5815402f-a925-46f9-bc25-557f6b7ef444}" />
+	<object class="AutomationPoint" id="{cd76d0a0-a9b4-4c36-8fcf-9c0393846f9e}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>-80</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{0bf4efe6-20a3-4262-af29-182a23b31547}">
+		<property name="position">
+			<value>1</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

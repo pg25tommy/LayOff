@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{175c9fbe-5ae8-41f1-a6ae-2c0079f33b39}">
+		<property name="name">
+			<value>SFX</value>
+		</property>
+		<relationship name="masters">
+			<destination>{17c2ec9a-00c4-48c4-853d-d4dfcc42463e}</destination>
+		</relationship>
+		<relationship name="effectChain">
+			<destination>{763013db-1475-434a-96f3-8d4118522300}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{21913af1-4a9d-46b0-a005-57857a376b99}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{fd354eed-d229-4a55-a0ab-8ed4aa1f6b44}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{763013db-1475-434a-96f3-8d4118522300}">
+		<relationship name="effects">
+			<destination>{ae5d8647-2ac0-4b0e-a8bb-e2d0cd79dcf0}</destination>
+			<destination>{f300b106-ea1e-4557-b917-98e3f5427056}</destination>
+			<destination>{a2549c37-ab4f-45e4-aad2-93a37300e084}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{21913af1-4a9d-46b0-a005-57857a376b99}" />
+	<object class="MixerBusFader" id="{ae5d8647-2ac0-4b0e-a8bb-e2d0cd79dcf0}" />
+	<object class="CompressorEffect" id="{f300b106-ea1e-4557-b917-98e3f5427056}">
+		<property name="ratio">
+			<value>2.9000001</value>
+		</property>
+		<property name="attackTime">
+			<value>0.349999994</value>
+		</property>
+		<property name="releaseTime">
+			<value>84</value>
+		</property>
+	</object>
+	<object class="ThreeEQEffect" id="{a2549c37-ab4f-45e4-aad2-93a37300e084}" />
+</objects>

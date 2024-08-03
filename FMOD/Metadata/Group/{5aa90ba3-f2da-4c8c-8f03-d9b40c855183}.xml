@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{5aa90ba3-f2da-4c8c-8f03-d9b40c855183}">
+		<property name="name">
+			<value>Trap_Ceiling</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{46cb085a-9b19-4356-9390-3bd1c76d6270}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{39959c81-cbca-480d-9e20-2549117d9750}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{31cedd92-388e-48e7-8a93-ca30385d37af}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{46cb085a-9b19-4356-9390-3bd1c76d6270}">
+		<relationship name="effects">
+			<destination>{78324255-d621-47d9-9d36-90343d3c2b5c}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{39959c81-cbca-480d-9e20-2549117d9750}" />
+	<object class="MixerBusFader" id="{78324255-d621-47d9-9d36-90343d3c2b5c}" />
+</objects>

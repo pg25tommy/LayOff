@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"98d3bd00-a42e-4eff-8081-c7ccc37164a2\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Client Version\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"M3.1.14.23\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"94638cbd-ff40-4574-8ee2-326a00c998a9\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Debug Mode\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"98d3bd00-a42e-4eff-8081-c7ccc37164a2\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Client Version\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"M3.1.14.23\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"94638cbd-ff40-4574-8ee2-326a00c998a9\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Debug Mode\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"585a2e32-737e-436a-99f3-c6bf7f7c08c0\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"a91475c2-bb40-4b3e-90c6-0b147e940c49\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-03-28T21:42:46Z\",\r\n    \"updatedAt\":
+    \"2024-03-28T21:42:46Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"585a2e32-737e-436a-99f3-c6bf7f7c08c0\",\r\n   
+    \"name\": \"demo\",\r\n    \"id\": \"c5d45cd9-c55f-4567-9929-ab5bb9917f5b\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2024-04-26T05:56:14Z\",\r\n   
+    \"updatedAt\": \"2024-04-26T05:56:14Z\"\r\n  },\r\n  {\r\n    \"projectId\":
+    \"585a2e32-737e-436a-99f3-c6bf7f7c08c0\",\r\n    \"name\": \"development\",\r\n   
+    \"id\": \"5f6c370a-a00b-49e8-95fb-196f0958ddd4\",\r\n    \"isDefault\": false,\r\n   
+    \"createdAt\": \"2024-06-17T02:34:10Z\",\r\n    \"updatedAt\": \"2024-06-17T02:34:10Z\"\r\n 
+    }\r\n]"

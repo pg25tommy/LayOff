@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{c1c5e2b5-a2b8-4c23-833b-0b3a6aa2a7ec}">
+		<property name="assetPath">
+			<value>Voice/BossVA/GenericDeathsVA/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0007398a-8526-4222-84a0-9fc057cc09e5}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d905a760658bf2d42a29816bd1bbf3f4, type: 3}
+  m_Name: ColorVariants
+  m_EditorClassIdentifier: 
+  materialEntries:
+  - key: green
+    materials:
+    - {fileID: 2100000, guid: 2d45f2795193cf84087868c536ac7e14, type: 2}
+    - {fileID: 2100000, guid: 6e2c0143270742740991ceb98c3746b4, type: 2}
+    - {fileID: 2100000, guid: 1f05a5f1a415f9c40b12d4929a4dbac7, type: 2}
+  - key: blue
+    materials:
+    - {fileID: 2100000, guid: 2da606466ad7fd640b4e81fe12ccea36, type: 2}
+    - {fileID: 2100000, guid: be38a8702db867e4ea77f436caa5a693, type: 2}
+    - {fileID: 2100000, guid: cde858dab139a9d4a93519f177b5738e, type: 2}
+  - key: yellow
+    materials:
+    - {fileID: 2100000, guid: f32515f49e609574eb495685ff139fe1, type: 2}
+    - {fileID: 2100000, guid: fd6cda15d5ca4d94ca3a42d127edd6cb, type: 2}
+    - {fileID: 2100000, guid: 5ede83569b85dd44993803c354be2721, type: 2}

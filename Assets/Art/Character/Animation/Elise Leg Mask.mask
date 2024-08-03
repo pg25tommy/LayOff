@@ -1,0 +1,695 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Elise Leg Mask
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Elise_low
+    m_Weight: 1
+  - m_Path: Elise_low/M1_Yellow
+    m_Weight: 1
+  - m_Path: Elise_low/M2_Green
+    m_Weight: 1
+  - m_Path: Elise_low/M3_Blue
+    m_Weight: 1
+  - m_Path: Rig
+    m_Weight: 1
+  - m_Path: Rig/LeftFoot_IK
+    m_Weight: 1
+  - m_Path: Rig/LeftHeel_LOC
+    m_Weight: 1
+  - m_Path: Rig/LeftHeel_LOC/LeftToe_End_LOC
+    m_Weight: 1
+  - m_Path: Rig/LeftHeel_LOC/LeftToe_End_LOC/LeftToeBase_LOC
+    m_Weight: 1
+  - m_Path: Rig/LeftHeel_LOC/LeftToe_End_LOC/LeftToeBase_LOC/LeftFoot_LOC
+    m_Weight: 1
+  - m_Path: Rig/LeftToe_End_IK
+    m_Weight: 1
+  - m_Path: Rig/LeftToeBase_IK
+    m_Weight: 1
+  - m_Path: Rig/Ponytail_IK
+    m_Weight: 1
+  - m_Path: Rig/Ponytail_LOC
+    m_Weight: 1
+  - m_Path: Rig/RightFoot_IK
+    m_Weight: 1
+  - m_Path: Rig/RightHeel_LOC
+    m_Weight: 1
+  - m_Path: Rig/RightHeel_LOC/RightToe_End_LOC
+    m_Weight: 1
+  - m_Path: Rig/RightHeel_LOC/RightToe_End_LOC/RightToeBase_LOC
+    m_Weight: 1
+  - m_Path: Rig/RightHeel_LOC/RightToe_End_LOC/RightToeBase_LOC/RightFoot_LOC
+    m_Weight: 1
+  - m_Path: Rig/RightToe_End_IK
+    m_Weight: 1
+  - m_Path: Rig/RightToeBase_IK
+    m_Weight: 1
+  - m_Path: Rig/Root
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/BackSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/BackSkirt1/BackSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/BackSkirt1/BackSkirt2/BackSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/FrontSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/FrontSkirt1/FrontSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/FrontSkirt1/FrontSkirt2/FrontSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftBackSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftBackSkirt1/LeftBackSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftBackSkirt1/LeftBackSkirt2/LeftBackSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftFrontSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftFrontSkirt1/LeftFrontSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftFrontSkirt1/LeftFrontSkirt2/LeftFrontSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftSkirt1/LeftSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftSkirt1/LeftSkirt2/LeftSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftUpLeg
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToe_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightBackSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightBackSkirt1/RightBackSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightBackSkirt1/RightBackSkirt2/RightBackSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightFrontSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightFrontSkirt1/RightFrontSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightFrontSkirt1/RightFrontSkirt2/RightFrontSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightSkirt1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightSkirt1/RightSkirt2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightSkirt1/RightSkirt2/RightSkirt_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightUpLeg
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightUpLeg/RightLeg
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToe_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftChest_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinky4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftTwist1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftTwist2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftTwist3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftHairBang
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftHairBang/LeftHairBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftHairSideBang1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftHairSideBang1/LeftHairSideBang2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftHairSideBang1/LeftHairSideBang2/LeftHairSideBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftMiddleHairBang
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/LeftMiddleHairBang/LeftMiddleHairBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/MiddleHairBang
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/MiddleHairBang/MiddleHairBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightHairBang
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightHairBang/RightHairBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightHairSideBang1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightHairSideBang1/RightHairSideBang2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightHairSideBang1/RightHairSideBang2/RightHairSideBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightMiddleHairBang
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HairBang/RightMiddleHairBang/RightMiddleHairBang_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Jaw
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Jaw/Jaw_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Jaw/LeftMouthEdge
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Jaw/RightMouthEdge
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftEye
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftInnerBrow
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftLowerEye
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftMiddleBrow
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftOuterBrow
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftUpperEye
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail/Ponytail2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail/Ponytail2/Ponytail3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail/Ponytail2/Ponytail3/Ponytail4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail/Ponytail2/Ponytail3/Ponytail4/Ponytail5
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail/Ponytail2/Ponytail3/Ponytail4/Ponytail5/Ponytail6
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/Ponytail/Ponytail2/Ponytail3/Ponytail4/Ponytail5/Ponytail6/Ponytail_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightEye
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightInnerBrow
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightLowerEye
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightMiddleBrow
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightOuterBrow
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightUpperEye
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightChest_End
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinky4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumb4
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightTwist1
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightTwist2
+    m_Weight: 1
+  - m_Path: Rig/Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightTwist3
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_BackSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_BackSkirt1_CON/BackSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_BackSkirt1_CON/BackSkirt1_CON/ZERO_BackSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_BackSkirt1_CON/BackSkirt1_CON/ZERO_BackSkirt2_CON/BackSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_BackSkirt1_CON/BackSkirt1_CON/ZERO_BackSkirt2_CON/BackSkirt2_CON/ZERO_BackSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_BackSkirt1_CON/BackSkirt1_CON/ZERO_BackSkirt2_CON/BackSkirt2_CON/ZERO_BackSkirt_End_CON/BackSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_FrontSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_FrontSkirt1_CON/FrontSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_FrontSkirt1_CON/FrontSkirt1_CON/ZERO_FrontSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_FrontSkirt1_CON/FrontSkirt1_CON/ZERO_FrontSkirt2_CON/FrontSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_FrontSkirt1_CON/FrontSkirt1_CON/ZERO_FrontSkirt2_CON/FrontSkirt2_CON/ZERO_FrontSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_FrontSkirt1_CON/FrontSkirt1_CON/ZERO_FrontSkirt2_CON/FrontSkirt2_CON/ZERO_FrontSkirt_End_CON/FrontSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftBackSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftBackSkirt1_CON/LeftBackSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftBackSkirt1_CON/LeftBackSkirt1_CON/ZERO_LeftBackSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftBackSkirt1_CON/LeftBackSkirt1_CON/ZERO_LeftBackSkirt2_CON/LeftBackSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftBackSkirt1_CON/LeftBackSkirt1_CON/ZERO_LeftBackSkirt2_CON/LeftBackSkirt2_CON/ZERO_LeftBackSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftBackSkirt1_CON/LeftBackSkirt1_CON/ZERO_LeftBackSkirt2_CON/LeftBackSkirt2_CON/ZERO_LeftBackSkirt_End_CON/LeftBackSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftFrontSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftFrontSkirt1_CON/LeftFrontSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftFrontSkirt1_CON/LeftFrontSkirt1_CON/ZERO_LeftFrontSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftFrontSkirt1_CON/LeftFrontSkirt1_CON/ZERO_LeftFrontSkirt2_CON/LeftFrontSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftFrontSkirt1_CON/LeftFrontSkirt1_CON/ZERO_LeftFrontSkirt2_CON/LeftFrontSkirt2_CON/ZERO_LeftFrontSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftFrontSkirt1_CON/LeftFrontSkirt1_CON/ZERO_LeftFrontSkirt2_CON/LeftFrontSkirt2_CON/ZERO_LeftFrontSkirt_End_CON/LeftFrontSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftSkirt1_CON/LeftSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftSkirt1_CON/LeftSkirt1_CON/ZERO_LeftSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftSkirt1_CON/LeftSkirt1_CON/ZERO_LeftSkirt2_CON/LeftSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftSkirt1_CON/LeftSkirt1_CON/ZERO_LeftSkirt2_CON/LeftSkirt2_CON/ZERO_LeftSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_LeftSkirt1_CON/LeftSkirt1_CON/ZERO_LeftSkirt2_CON/LeftSkirt2_CON/ZERO_LeftSkirt_End_CON/LeftSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightBackSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightBackSkirt1_CON/RightBackSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightBackSkirt1_CON/RightBackSkirt1_CON/ZERO_RightBackSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightBackSkirt1_CON/RightBackSkirt1_CON/ZERO_RightBackSkirt2_CON/RightBackSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightBackSkirt1_CON/RightBackSkirt1_CON/ZERO_RightBackSkirt2_CON/RightBackSkirt2_CON/ZERO_RightBackSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightBackSkirt1_CON/RightBackSkirt1_CON/ZERO_RightBackSkirt2_CON/RightBackSkirt2_CON/ZERO_RightBackSkirt_End_CON/RightBackSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightFrontSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightFrontSkirt1_CON/RightFrontSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightFrontSkirt1_CON/RightFrontSkirt1_CON/ZERO_RightFrontSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightFrontSkirt1_CON/RightFrontSkirt1_CON/ZERO_RightFrontSkirt2_CON/RightFrontSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightFrontSkirt1_CON/RightFrontSkirt1_CON/ZERO_RightFrontSkirt2_CON/RightFrontSkirt2_CON/ZERO_RightFrontSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightFrontSkirt1_CON/RightFrontSkirt1_CON/ZERO_RightFrontSkirt2_CON/RightFrontSkirt2_CON/ZERO_RightFrontSkirt_End_CON/RightFrontSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightSkirt1_CON/RightSkirt1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightSkirt1_CON/RightSkirt1_CON/ZERO_RightSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightSkirt1_CON/RightSkirt1_CON/ZERO_RightSkirt2_CON/RightSkirt2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightSkirt1_CON/RightSkirt1_CON/ZERO_RightSkirt2_CON/RightSkirt2_CON/ZERO_RightSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Skirt1_CON/Skirt1_CON/ZERO_RightSkirt1_CON/RightSkirt1_CON/ZERO_RightSkirt2_CON/RightSkirt2_CON/ZERO_RightSkirt_End_CON/RightSkirt_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandIndex1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandIndex1_CON/LeftHandIndex1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandIndex1_CON/LeftHandIndex1_CON/ZERO_LeftHandIndex2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandIndex1_CON/LeftHandIndex1_CON/ZERO_LeftHandIndex2_CON/LeftHandIndex2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandIndex1_CON/LeftHandIndex1_CON/ZERO_LeftHandIndex2_CON/LeftHandIndex2_CON/ZERO_LeftHandIndex3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandIndex1_CON/LeftHandIndex1_CON/ZERO_LeftHandIndex2_CON/LeftHandIndex2_CON/ZERO_LeftHandIndex3_CON/LeftHandIndex3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandMiddle1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandMiddle1_CON/LeftHandMiddle1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandMiddle1_CON/LeftHandMiddle1_CON/ZERO_LeftHandMiddle2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandMiddle1_CON/LeftHandMiddle1_CON/ZERO_LeftHandMiddle2_CON/LeftHandMiddle2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandMiddle1_CON/LeftHandMiddle1_CON/ZERO_LeftHandMiddle2_CON/LeftHandMiddle2_CON/ZERO_LeftHandMiddle3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandMiddle1_CON/LeftHandMiddle1_CON/ZERO_LeftHandMiddle2_CON/LeftHandMiddle2_CON/ZERO_LeftHandMiddle3_CON/LeftHandMiddle3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandPinky1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandPinky1_CON/LeftHandPinky1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandPinky1_CON/LeftHandPinky1_CON/ZERO_LeftHandPinky2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandPinky1_CON/LeftHandPinky1_CON/ZERO_LeftHandPinky2_CON/LeftHandPinky2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandPinky1_CON/LeftHandPinky1_CON/ZERO_LeftHandPinky2_CON/LeftHandPinky2_CON/ZERO_LeftHandPinky3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandPinky1_CON/LeftHandPinky1_CON/ZERO_LeftHandPinky2_CON/LeftHandPinky2_CON/ZERO_LeftHandPinky3_CON/LeftHandPinky3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandRing1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandRing1_CON/LeftHandRing1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandRing1_CON/LeftHandRing1_CON/ZERO_LeftHandRing2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandRing1_CON/LeftHandRing1_CON/ZERO_LeftHandRing2_CON/LeftHandRing2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandRing1_CON/LeftHandRing1_CON/ZERO_LeftHandRing2_CON/LeftHandRing2_CON/ZERO_LeftHandRing3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandRing1_CON/LeftHandRing1_CON/ZERO_LeftHandRing2_CON/LeftHandRing2_CON/ZERO_LeftHandRing3_CON/LeftHandRing3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandThumb1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandThumb1_CON/LeftHandThumb1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandThumb1_CON/LeftHandThumb1_CON/ZERO_LeftHandThumb2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandThumb1_CON/LeftHandThumb1_CON/ZERO_LeftHandThumb2_CON/LeftHandThumb2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandThumb1_CON/LeftHandThumb1_CON/ZERO_LeftHandThumb2_CON/LeftHandThumb2_CON/ZERO_LeftHandThumb3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHand_CON/LeftHand_CON/ZERO_LeftHandThumb1_CON/LeftHandThumb1_CON/ZERO_LeftHandThumb2_CON/LeftHandThumb2_CON/ZERO_LeftHandThumb3_CON/LeftHandThumb3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHandFist_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_LeftShoulder_CON/LeftShoulder_CON/ZERO_LeftArm_CON/LeftArm_CON/ZERO_LeftForeArm_CON/LeftForeArm_CON/ZERO_LeftHandFist_CON/LeftHandFist_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Eyelid_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Eyes_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Eyes_CON/Eyes_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Eyes_CON/Eyes_CON/LeftEye_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Eyes_CON/Eyes_CON/RightEye_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Jaw_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Jaw_CON/Jaw_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Jaw_CON/Jaw_CON/ZERO_LeftMouthEdge_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Jaw_CON/Jaw_CON/ZERO_LeftMouthEdge_CON/LeftMouthEdge_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Jaw_CON/Jaw_CON/ZERO_RightMouthEdge_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Jaw_CON/Jaw_CON/ZERO_RightMouthEdge_CON/RightMouthEdge_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_LeftUpperEye_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_LeftUpperEye_CON/LeftUpperEye_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Ponytail_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Ponytail_End_CON/Ponytail_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_Ponytail_End_CON/Ponytail_CON/Ponytail_End_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_RightUpperEye_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_Neck_CON/Neck_CON/ZERO_Head_CON/Head_CON/ZERO_RightUpperEye_CON/RightUpperEye_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO__RightHandMiddle1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO__RightHandMiddle1_CON/RightHandMiddle1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO__RightHandMiddle1_CON/RightHandMiddle1_CON/ZERO_RightHandMiddle2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO__RightHandMiddle1_CON/RightHandMiddle1_CON/ZERO_RightHandMiddle2_CON/RightHandMiddle2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO__RightHandMiddle1_CON/RightHandMiddle1_CON/ZERO_RightHandMiddle2_CON/RightHandMiddle2_CON/ZERO_RightHandMiddle3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO__RightHandMiddle1_CON/RightHandMiddle1_CON/ZERO_RightHandMiddle2_CON/RightHandMiddle2_CON/ZERO_RightHandMiddle3_CON/RightHandMiddle3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandIndex1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandIndex1_CON/RightHandIndex1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandIndex1_CON/RightHandIndex1_CON/ZERO_RightHandIndex2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandIndex1_CON/RightHandIndex1_CON/ZERO_RightHandIndex2_CON/RightHandIndex2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandIndex1_CON/RightHandIndex1_CON/ZERO_RightHandIndex2_CON/RightHandIndex2_CON/ZERO_RightHandIndex3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandIndex1_CON/RightHandIndex1_CON/ZERO_RightHandIndex2_CON/RightHandIndex2_CON/ZERO_RightHandIndex3_CON/RightHandIndex3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandPinky1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandPinky1_CON/RightHandPinky1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandPinky1_CON/RightHandPinky1_CON/ZERO_RightHandPinky2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandPinky1_CON/RightHandPinky1_CON/ZERO_RightHandPinky2_CON/RightHandPinky2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandPinky1_CON/RightHandPinky1_CON/ZERO_RightHandPinky2_CON/RightHandPinky2_CON/ZERO_RightHandPinky3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandPinky1_CON/RightHandPinky1_CON/ZERO_RightHandPinky2_CON/RightHandPinky2_CON/ZERO_RightHandPinky3_CON/RightHandPinky3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandRing1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandRing1_CON/RightHandRing1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandRing1_CON/RightHandRing1_CON/ZERO_RightHandRing2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandRing1_CON/RightHandRing1_CON/ZERO_RightHandRing2_CON/RightHandRing2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandRing1_CON/RightHandRing1_CON/ZERO_RightHandRing2_CON/RightHandRing2_CON/ZERO_RightHandRing3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandRing1_CON/RightHandRing1_CON/ZERO_RightHandRing2_CON/RightHandRing2_CON/ZERO_RightHandRing3_CON/RightHandRing3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandThumb1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandThumb1_CON/RightHandThumb1_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandThumb1_CON/RightHandThumb1_CON/ZERO_RightHandThumb2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandThumb1_CON/RightHandThumb1_CON/ZERO_RightHandThumb2_CON/RightHandThumb2_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandThumb1_CON/RightHandThumb1_CON/ZERO_RightHandThumb2_CON/RightHandThumb2_CON/ZERO_RightHandThumb3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHand_CON/RightHand_CON/ZERO_RightHandThumb1_CON/RightHandThumb1_CON/ZERO_RightHandThumb2_CON/RightHandThumb2_CON/ZERO_RightHandThumb3_CON/RightHandThumb3_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHandFist_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_Hips_CON/Hips_CON/ZERO_Spine_CON/Spine_CON/ZERO_Spine1_CON/Spine1_CON/ZERO_Spine2_CON/Spine2_CON/ZERO_RightShoulder_CON/RightShoulder_CON/ZERO_RightArm_CON/RightArm_CON/ZERO_RightForeArm_CON/RightForeArm_CON/ZERO_RightHandFist_CON/RightHandFist_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftFoot_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftFoot_IK_PV/LeftFoot_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON/ZERO_LeftToe_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON/ZERO_LeftToe_End_CON/LeftToe_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON/ZERO_LeftToe_End_CON/LeftToe_End_CON/ZERO_LeftToeBase_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON/ZERO_LeftToe_End_CON/LeftToe_End_CON/ZERO_LeftToeBase_CON/LeftToeBase_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON/ZERO_LeftToe_End_CON/LeftToe_End_CON/ZERO_LeftToeBase_CON/LeftToeBase_CON/LeftToe_End_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_LeftHeel_CON/LeftHeel_CON/ZERO_LeftToe_End_CON/LeftToe_End_CON/ZERO_LeftToeBase_CON/LeftToeBase_CON/LeftToeBase_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightFoot_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightFoot_IK_PV/RightFoot_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON/ZERO_RightToe_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON/ZERO_RightToe_End_CON/RightToe_End_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON/ZERO_RightToe_End_CON/RightToe_End_CON/ZERO_RightToeBase_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON/ZERO_RightToe_End_CON/RightToe_End_CON/ZERO_RightToeBase_CON/RightToeBase_CON
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON/ZERO_RightToe_End_CON/RightToe_End_CON/ZERO_RightToeBase_CON/RightToeBase_CON/RightToe_End_IK_PV
+    m_Weight: 1
+  - m_Path: Rig/ZERO_Root_CON/Root_CON/ZERO_RightHeel_CON/RightHeel_CON/ZERO_RightToe_End_CON/RightToe_End_CON/ZERO_RightToeBase_CON/RightToeBase_CON/RightToeBase_IK_PV
+    m_Weight: 1

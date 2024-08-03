@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{b51abbc8-371f-49ef-be60-3415b1877729}">
+		<property name="name">
+			<value>Trap_Betty</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{89660951-b9b0-4609-8de6-3b005c8f8a63}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{061dcbc1-eb26-447f-b2b2-2134819fccc6}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{31cedd92-388e-48e7-8a93-ca30385d37af}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{89660951-b9b0-4609-8de6-3b005c8f8a63}">
+		<relationship name="effects">
+			<destination>{9c467273-3488-48f6-acf4-c3779368e17d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{061dcbc1-eb26-447f-b2b2-2134819fccc6}" />
+	<object class="MixerBusFader" id="{9c467273-3488-48f6-acf4-c3779368e17d}" />
+</objects>
